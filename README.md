@@ -8,11 +8,4 @@ After reading/listening to the article about growth mindset I realized I have so
 - Rememeber that I have the potential to achieve things I thought were out of my ability though perserverance.   
 - Do not avoid challenges, embrace them.
 
-this is a test
-**this is a test**
-_this is a test_
-**this is _a_ test**
-~~this is a test~~
-***this is a test***
-
 ***Link to my portfolio:*** [Github Home](https://github.com/Gordon-Reilley)
