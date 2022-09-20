@@ -7,4 +7,5 @@ Hi, my name is **Gordon Reilley**. I love anything to do with technology or the 
 ### Table Of Contents
 
 - [Read: 01](102/Markdown-Guide.md)
+- [Read: 02](102/The-Coders-Computer.md)
 - 
