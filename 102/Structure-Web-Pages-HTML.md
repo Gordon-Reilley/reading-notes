@@ -10,6 +10,6 @@
 
 #### Semantics
 
-In programming, Semantics refers to the meaning of a piece of code. In HTML, for example, the **<h1>** element is a semantic element, which gives the text it wraps around the meaning of "a top level heading on your page."
+In programming, Semantics refers to the meaning of a piece of code. In HTML, for example, the **h1** element is a semantic element, which gives the text it wraps around the meaning of "a top level heading on your page."
 
 [Back To Home](../README.md)
