@@ -11,3 +11,7 @@
 - **code .** VS Code will open in whatever directory is selected.
 - **tree** visual representation of file structure.
 - **control c** stop terminal.
+- **rmdir** deletes a directory
+- **rm -(item)** deletes almost anything you assign to it.
+
+[Back To Home](../README.md)

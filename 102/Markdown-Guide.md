@@ -12,3 +12,5 @@ Below I will explain why its a great language to utilize when writing code in Ma
 - You may not be able to preview your document depending on the which text editor you use, but you do not need to in Markdown.This is because you can see the changes you make as you make them with your syntax in your file.
 
 For all these reasons Markdown is a great way to take notes and create content for a website in a clean, quick, and concise way!
+
+[Back To Home](../README.md)
