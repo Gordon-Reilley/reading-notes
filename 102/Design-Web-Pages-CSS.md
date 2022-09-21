@@ -2,7 +2,7 @@
 
 ## What is CSS
 
-**Cascading Style Sheets** (CSS) is a language for specifying how documents are presented to users — how they are styled, laid out, etc. CSS can be used for very basic document text styling. For example, changing the color and size of headings and links. Basically if **HTML** is the structure of a webpage, **CSS*** is the style of that webpage. 
+**Cascading Style Sheets** (CSS) is a language for specifying how documents are presented to users — how they are styled, laid out, etc. CSS can be used for very basic document text styling. For example, changing the color and size of headings and links. Basically if **HTML** is the structure of a webpage, **CSS** is the style of that webpage.
 
 ### CSS Syntax
 
