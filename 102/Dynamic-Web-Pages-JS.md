@@ -13,3 +13,5 @@ Traditionally JavaScript was used inside web browsers such as Mozilla Firefox, I
 1. The language itself. This is fairly standard among the various environments, both in the various browsers and in the various server-side environments.
 2. The DOM API - how the language can interact with the various parts of a web page while in the browser. While in this respect the various browsers are getting closer to each other they still differ. Several libraries, most prominently JQuery, is trying to provide a unified API.
 3. The server API (or just API) provided by Node.js or one of the other server-side systems.
+
+[Back To Home](../README.md)

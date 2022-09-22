@@ -12,3 +12,4 @@ Hi, my name is **Gordon Reilley**. I love anything to do with technology or the 
 - [Read: 04](102/Structure-Web-Pages-HTML.md)
 - [Read: 05](102/Design-Web-Pages-CSS.md)
 - [Read: 06](102/Dynamic-Web-Pages-JS.md)
+- [Read: 07](102/Programming-with-JS.md)
