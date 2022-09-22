@@ -13,7 +13,7 @@ A **JavaScript function** is a block of code designed to perform a particular ta
 
 In JavaScript, an **operator** is a special symbol used to perform operations on operands (values and variables).
 
-- **Aritmetic Operators:** are used to perform arithmetic on numbers.
+- **Arithmetic Operators:** are used to perform arithmetic on numbers.
 - **Assignment Operators:** assign values to JavaScript variables.
 - **Comparison Operators:** are used in logical statements to determine equality or difference between variables or values.
 - **Logical Operators:** are used to determine the logic between variables or values.
