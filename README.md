@@ -30,21 +30,21 @@ Hi, my name is **Gordon Reilley**. I love anything to do with technology or the 
 
 ### Code 201 Reading Notes
 
-- [Read: 01](201/read01.md)
-- [Read: 02](201/read02.md)
-- [Read: 03](201/read03.md)
-- [Read: 04](201/read04.md)
-- [Read: 05](201/read05.md)
-- [Read: 06](201/read06.md)
-- [Read: 07](201/read07.md)
-- [Read: 08](201/read08.md)
-- [Read: 09](201/read09.md)
-- [Read: 10](201/read10.md)
-- [Read: 11](201/read11.md)
-- [Read: 12](201/read12.md)
-- [Read: 13](201/read13.md)
-- [Read: 14](201/read14.md)
-- [Read: 15](201/read15.md)
+- [Read: Class 01](201/read01.md)
+- [Read: Class 02](201/read02.md)
+- [Read: Class 03](201/read03.md)
+- [Read: Class 04](201/read04.md)
+- [Read: Class 05](201/read05.md)
+- [Read: Class 06](201/read06.md)
+- [Read: Class 07](201/read07.md)
+- [Read: Class 08](201/read08.md)
+- [Read: Class 09](201/read09.md)
+- [Read: Class 10](201/read10.md)
+- [Read: Class 11](201/read11.md)
+- [Read: Class 12](201/read12.md)
+- [Read: Class 13](201/read13.md)
+- [Read: Class 14](201/read14.md)
+- [Read: Class 15](201/read15.md)
 
 <!-- </p>
 </details> -->
