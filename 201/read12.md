@@ -29,6 +29,6 @@
 - <https://www.javascripttutorial.net/web-apis/javascript-canvas/>
 - <https://www.chartjs.org/docs/latest/>
 - <https://www.w3schools.com/js/js_graphics_chartjs.asp>
-- <>
+- <https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/>
 
 [Back To Home](../README.md)
