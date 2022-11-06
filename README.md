@@ -6,11 +6,7 @@ Hi, my name is **Gordon Reilley**. I love anything to do with technology or the 
 
 ## Table Of Contents
 
-<!-- <details>
-<summary>Code 102</summary>
-<p> -->
-
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 - [Read: 01](102/Markdown-Guide.md)
 - [Read: 02](102/The-Coders-Computer.md)
@@ -21,14 +17,7 @@ Hi, my name is **Gordon Reilley**. I love anything to do with technology or the 
 - [Read: 07](102/Programming-with-JS.md)
 - [Read: 08](102/Operators-and-Loops.md)
 
-<!-- </p>
-</details>
-
-<details>
-<summary>Code 201</summary>
-<p> -->
-
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 
 - [Read: Class 01](201/read01.md)
 - [Read: Class 02](201/read02.md)
@@ -46,5 +35,20 @@ Hi, my name is **Gordon Reilley**. I love anything to do with technology or the 
 - [Read: Class 14](201/read14.md)
 - [Read: Class 15](201/read15.md)
 
-<!-- </p>
-</details> -->
+### Code 301 - Intermediate Software Development
+
+- [Read: Class 01](301/read01.md)
+- [Read: Class 02](301/read02.md)
+- [Read: Class 03](301/read03.md)
+- [Read: Class 04](301/read04.md)
+- [Read: Class 05](301/read05.md)
+- [Read: Class 06](301/read06.md)
+- [Read: Class 07](301/read07.md)
+- [Read: Class 08](301/read08.md)
+- [Read: Class 09](301/read09.md)
+- [Read: Class 10](301/read10.md)
+- [Read: Class 11](301/read11.md)
+- [Read: Class 12](301/read12.md)
+- [Read: Class 13](301/read13.md)
+- [Read: Class 14](301/read14.md)
+- [Read: Class 15](301/read15.md)]
