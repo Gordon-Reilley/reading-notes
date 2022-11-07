@@ -51,4 +51,4 @@ Hi, my name is **Gordon Reilley**. I love anything to do with technology or the 
 - [Read: Class 12](301/read12.md)
 - [Read: Class 13](301/read13.md)
 - [Read: Class 14](301/read14.md)
-- [Read: Class 15](301/read15.md)]
+- [Read: Class 15](301/read15.md)
