@@ -86,6 +86,8 @@ Hi, my name is **Gordon Reilley**. I love anything to do with technology or the 
 - [Read: Class 36](401/read36.md)
 - [Read: Class 37](401/read37.md)
 - [Read: Class 38](401/read38.md)
+- [Read: Class 39](401/read39.md)
+- [Read: Class 41](401/read41.md)
 - [Read: Growth Mindset](401/growth-mindset.md)
 - [Read: Engineering Readings](401/engineering-readings.md)
 - [Read: Data Structures and Algorithms](401/data-s-and-a.md)
